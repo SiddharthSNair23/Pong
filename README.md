@@ -17,7 +17,7 @@ A modern take on the classic Pong game built in Unity, featuring two game modes.
 - Particle effects on hits
 - Volume slider
 - Ball speed increases with every bounce — the longer the rally, the faster it gets
-- Win screen when a player reaches the max score
+- Win screen when a player reaches the max score of 10 points
 
 ## How to Play
 1. Go to [Releases](https://github.com/SiddharthSNair23/Pong/releases/tag/V1.0)

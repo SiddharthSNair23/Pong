@@ -1,6 +1,6 @@
 # Pong
 
-A modern take on the classic Pong game built in Unity, featuring two game modes and juicy game feel effects.
+A modern take on the classic Pong game built in Unity, featuring two game modes.
 
 ## Game Modes
 - **2 Players** — Play against a friend locally
